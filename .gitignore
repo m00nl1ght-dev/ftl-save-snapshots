@@ -1,5 +1,5 @@
-out\*
-.gradle\*
-.idea\*
-backup\*
 config.txt
+/.gradle
+/backup
+/.idea
+/out
