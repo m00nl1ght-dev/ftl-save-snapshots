@@ -3,7 +3,7 @@ plugins {
 }
 
 group 'dev.m00nl1ght.ftl.snapshots'
-version '0.1'
+version '0.4'
 
 sourceCompatibility = 1.8
 
